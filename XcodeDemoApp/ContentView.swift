@@ -12,6 +12,7 @@ struct ContentView: View {
         VStack {
             Text("Hello, world!")
             Text("this from staging branch")
+            Text("for fetch test code written in staging branch")
         }
         .padding()
     }
